@@ -1,4 +1,4 @@
-# README:
+# Reproducible README:
 
 This README.md file was generated on 2020-04-09 by Hannah C. Gunderman.
 
@@ -22,10 +22,10 @@ DATA & FILE OVERVIEW
 ---------------------
 
 Directory of Files:
-   A. Filename: 2012_ComprehensiveGratefulDeadBusinesses.csv
-   
-      Short description: This dataset was collected by Hannah Gunderman in 2012 and lists all confirmed and suspected        businesses named after the Grateful Dead in the United States.   
 
+Filename: 2012_ComprehensiveGratefulDeadBusinesses.csv
+   
+Short description: This dataset was collected by Hannah Gunderman in 2012 and lists all confirmed and suspected        businesses named after the Grateful Dead in the United States.   
 
 Additional Notes on File Relationships, Context, or Content 
 (for example, if a user wants to reuse and/or cite your data, 
@@ -36,39 +36,59 @@ The data was pulled from Whitepages.com using a pre-defined list of search terms
 File Naming Convention: yearofdatacollection_datasettheme.csv
 
 -----------------------------------------
-DATA DESCRIPTION FOR: [FILENAME]
+DATA DESCRIPTION FOR: [2012_ComprehensiveGratefulDeadBusinesses.csv]
 -----------------------------------------
 
-1. Number of variables:
+1. Number of variables: 10
 
 
-2. Number of cases/rows: 
+2. Number of cases/rows: 254 rows (unique business names)
 
 
 3. Missing data codes:
-        Code/symbol        Definition
-        Code/symbol        Definition
+        In this dataset, there are technically no missing data. Blank cells in the CSV signify that the address for that business does not contain a certain element, such as a prefix (North, South, etc.). 
 
 
 4. Variable List
 
-#
-# Example. Name: Gender 
-#     Description: Gender of respondent
-#         1 = Male
-#         2 = Female
-#         3 = Transgender
-#	      4 = Nonbinary
-#		  5 = Other gender not listed 
-#		  6 = Prefer not to answer
-#
-
-    A. Name: <variable name>
+    A. Name: Business Name
        Description: <description of the variable>
                     Value labels if appropriate
 
 
-    B. Name: <variable name>
+    B. Name: Street Number
+       Description: <description of the variable>
+                    Value labels if appropriate
+	
+    C. Name: Prefix
+       Description: <description of the variable>
+                    Value labels if appropriate
+	
+    D. Name: Street Name
+       Description: <description of the variable>
+                    Value labels if appropriate
+	
+    E. Name: Street Suffix
+       Description: <description of the variable>
+                    Value labels if appropriate
+
+    F. Name: Suite Number
+       Description: <description of the variable>
+                    Value labels if appropriate
+	
+    G. Name: City
+       Description: <description of the variable>
+                    Value labels if appropriate
+	
+    H. Name: State
+       Description: <description of the variable>
+                    Value labels if appropriate
+	
+    I. Name: Zip Code
+       Description: <description of the variable>
+                    Value labels if appropriate
+	
+    J. Name: Term
        Description: <description of the variable>
                     Value labels if appropriate
 
