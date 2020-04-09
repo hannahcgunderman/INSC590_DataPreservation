@@ -94,10 +94,10 @@ Open Source? (Y/N): N
 
 Although the dataset was generated in Excel, I have uploaded a CSV version of this file which can be viewed and analyzed on any operating system, including Linux. 
 
-**2. Equipment-specific information (on what system were the data collected?):**
+**2. Equipment-specific information (on what system were the data collected?):**  
 
-Manufacturer: Dell
-Model: E6420
+Manufacturer: Dell  
+Model: E6420  
 
 **3. Date of data collection:** 20120101 - 20120130
 
