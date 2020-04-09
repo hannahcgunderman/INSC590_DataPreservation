@@ -44,9 +44,7 @@ DATA DESCRIPTION FOR: [2012_ComprehensiveGratefulDeadBusinesses.csv]
 **2. Number of cases/rows:** 254 rows (unique business names)
 
 
-**3. Missing data codes:**
-
-In this dataset, there are technically no missing data. Blank cells in the CSV signify that the address for that business does not contain a certain element, such as a prefix (North, South, etc.). 
+**3. Missing data codes:** In this dataset, there are technically no missing data. Blank cells in the CSV signify that the address for that business does not contain a certain element, such as a prefix (North, South, etc.). 
 
 
 **4. Variable List**
@@ -98,10 +96,10 @@ METHODOLOGICAL INFORMATION
 
 **1. Software-specific information:**
 
-Name: Microsoft Office - Excel
-Version: Windows 7 
-System Requirements: Windows or Apple computer
-Open Source? (Y/N): N
+Name: Microsoft Office - Excel  
+Version: Windows 7   
+System Requirements: Windows or Apple computer  
+Open Source? (Y/N): N  
 
 **Additional Notes:**
 
