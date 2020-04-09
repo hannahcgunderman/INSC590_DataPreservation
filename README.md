@@ -2,7 +2,7 @@
 
 This README.md file was generated on 2020-04-09 by Hannah C. Gunderman.
 
-[![DOI](https://zenodo.org/badge/246431754.svg)](https://zenodo.org/badge/latestdoi/246431754)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3746550.svg)](https://doi.org/10.5281/zenodo.3746550)
 
 -------------------
 GENERAL INFORMATION
