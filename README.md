@@ -1,6 +1,6 @@
 # Reproducible README:
 
-This README.md file was generated on 2020-04-09 by Hannah C. Gunderman.
+This README.md file was generated on 2020-04-09 by Hannah C. Gunderman (ORCID: orcid.org/0000-0002-7710-7055).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3746550.svg)](https://doi.org/10.5281/zenodo.3746550)
 
