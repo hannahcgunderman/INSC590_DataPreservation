@@ -6,7 +6,7 @@ This README.md file was generated on 2020-04-09 by Hannah C. Gunderman.
 GENERAL INFORMATION
 -------------------
 
-1. Title of Dataset: 2012_Comprehensive_GratefulDead_Businesses.csv
+1. Title of Dataset: 2012_ComprehensiveGratefulDeadBusinesses.csv
 
 2. Author Information
 
@@ -22,7 +22,8 @@ DATA & FILE OVERVIEW
 ---------------------
 
 Directory of Files:
-   A. Filename: 2012_Comprehensive_GratefulDead_Businesses.csv       
+   A. Filename: 2012_ComprehensiveGratefulDeadBusinesses.csv
+   
       Short description: This dataset was collected by Hannah Gunderman in 2012 and lists all confirmed and suspected        businesses named after the Grateful Dead in the United States.   
 
 
@@ -32,14 +33,11 @@ what information would you want them to know?):
 
 The data was pulled from Whitepages.com using a pre-defined list of search terms related to the Grateful Dead. It must be noted this is not an exhaustive list of Grateful Dead-named businesses in the United States, and many of these businesses may have closed since 2012. Any reuse of this data should include this caveat in the analysis and write-up. 
 
-
 File Naming Convention: yearofdatacollection_datasettheme.csv
 
 -----------------------------------------
 DATA DESCRIPTION FOR: [FILENAME]
 -----------------------------------------
-<create sections for each dataset included>
-
 
 1. Number of variables:
 
