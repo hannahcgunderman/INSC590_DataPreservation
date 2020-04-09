@@ -2,6 +2,8 @@
 
 This README.md file was generated on 2020-04-09 by Hannah C. Gunderman.
 
+[![DOI](https://zenodo.org/badge/246431754.svg)](https://zenodo.org/badge/latestdoi/246431754)
+
 -------------------
 GENERAL INFORMATION
 -------------------
@@ -107,7 +109,6 @@ the search terms, and many were “play on word” variations of the search term
 business called “The Grateful Bread” would not show up in the results if I had entered “The
 Grateful Dead” into the search function, but it would show up if “The Grateful” was entered. It must be noted that this dataset may not be able to be 100% recreated, due to certain businesses closing and changes in the whitepages.com interface and search algorithms. The accuracy of this data can only be ensured as of January 2012. 
 
-[![DOI](https://zenodo.org/badge/246431754.svg)](https://zenodo.org/badge/latestdoi/246431754)
 
 
 
