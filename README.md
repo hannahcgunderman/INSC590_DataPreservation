@@ -105,7 +105,7 @@ Model: E6420
 “Dead”). This is necessary because few businesses had names that were verbatim parallels of
 the search terms, and many were “play on word” variations of the search terms. For example, a
 business called “The Grateful Bread” would not show up in the results if I had entered “The
-Grateful Dead” into the search function, but it would show up if “The Grateful” was entered. It must be noted that this dataset may not be able to be 100% recreated, due to certain businesses closing and changes in the whitepages.com interface and search algorithms. 
+Grateful Dead” into the search function, but it would show up if “The Grateful” was entered. It must be noted that this dataset may not be able to be 100% recreated, due to certain businesses closing and changes in the whitepages.com interface and search algorithms. The accuracy of this data can only be ensured as of January 2012. 
 
 
 
